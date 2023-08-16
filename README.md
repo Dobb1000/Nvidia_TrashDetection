@@ -1,6 +1,6 @@
 # NVIDIA_TrashDetect
 ## About The Project
-This project uses a Jetson Nano to detect and classify waste. The system is built using **[PyTorch](https://github.com/pytorch/pytorch)** and **[Jetson Inference](https://github.com/dusty-nv/jetson-inference)**, and it can recognize different types of waste, such as plastic bottles, cans, and paper. In future the system can be used in various settings, such as homes, offices, and public places, to promote recycling and reduce waste.
+This project uses a Jetson Nano to detect and classify waste. The system is built using **[PyTorch](https://github.com/pytorch/pytorch)** and **[Jetson Inference](https://github.com/dusty-nv/jetson-inference)**, and it can recognize different types of waste, such as plastic bottles, cans, and paper. In the future the system can be used in various settings, such as homes, offices, and public places, to promote recycling and reduce waste.
 
 
 
